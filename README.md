@@ -1,3 +1,25 @@
+
+
+# How to install
+
+1. Get [Cursor](https://www.cursor.com/)
+2. Get NodeJs: https://nodejs.org/en
+3. Run this commands in a terminal
+```
+git clone https://github.com/w3p706/phaser-starter
+cd .\phaser-starter
+yarn install
+cursor .
+```
+
+4. with CTRL+SHIFT+P write `terminal create` and create a new terminal.
+5. run `npm run dev`
+6. Open the project on http://localhost:3000/
+
+
+Built from https://github.com/geocine/phaser3-rollup-typescript
+
+
 <h1 align="center">
   <br>
   <a href="https://github.com/geocine/phaser3-rollup-typescript#readme"><img src="https://i.imgur.com/6lcIxDs.png" alt="header" width="600"/></a>
